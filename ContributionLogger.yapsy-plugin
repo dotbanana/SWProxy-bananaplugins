@@ -1,0 +1,8 @@
+[Core]
+Name = Contribution List Logger
+Module = ContributionLogger
+
+[Documentation]
+Author = .banana
+Version = 0.1
+Description = Log contribution list
